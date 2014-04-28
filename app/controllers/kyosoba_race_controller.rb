@@ -1,0 +1,2 @@
+class KyosobaRaceController < ApplicationController
+end

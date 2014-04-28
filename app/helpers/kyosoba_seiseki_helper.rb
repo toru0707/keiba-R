@@ -1,0 +1,2 @@
+module KyosobaSeisekiHelper
+end

@@ -1,0 +1,2 @@
+class KyosobaPriceController < ApplicationController
+end

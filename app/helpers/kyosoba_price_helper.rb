@@ -1,0 +1,2 @@
+module KyosobaPriceHelper
+end
